@@ -1,4 +1,4 @@
-<p align='center'>
+<!-- <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
 
@@ -159,4 +159,4 @@ This project was born from solving real-world types problem with [@hardfist](htt
 
 ## License
 
-MIT
+MIT -->
